@@ -18,10 +18,10 @@ just a litter thing
 
 ## Snapshot
 
-![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-163748.jpg)
-![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-163755.jpg)
-![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-164413.jpg)
-![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70531-105720.jpg)
+![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-1637481.jpg)
+![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-1637551.jpg)
+![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-1644131.jpg)
+![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70531-1057201.jpg)
 
 ## Coding
 
@@ -36,7 +36,7 @@ just a litter thing
 
 
 ## WebApp Relative Links
-- Resty: [https://github.com/Dreampie/Resty](https://github.com/Dreampie/Resty) ，jfinal: [https://github.com/jfinal/jfinal.git](https://github.com/jfinal/jfinal.git) 均为轻量型web框架，两者均有其特点和相似之处
+- Resty: [https://github.com/Dreampie/Resty](https://github.com/Dreampie/Resty) ，jfinal: [https://github.com/jfinal/jfinal.git](https://github.com/jfinal/jfinal.git) 均为轻量型web框架，两者均有其特点和相似之处,还有 jersey: [https://github.com/jersey/jersey](https://github.com/jersey/jersey)
 - zheng: [https://github.com/shuzheng/zheng.git](https://github.com/shuzheng/zheng.git) 项目挺叼
 - 学习spring +springMVC +myBatis： [https://github.com/brianway/springmvc-mybatis-learning.git](https://github.com/brianway/springmvc-mybatis-learning.git)，相关资源搜索关键字spring+springMVC+myBatis
 
