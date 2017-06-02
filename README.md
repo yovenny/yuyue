@@ -16,6 +16,10 @@ just a litter thing
 - 图片写真浏览（以人物，相册 衍生分类浏览），资源均来源于网络，侵删。
 - 完整的内容发布，评论 模块
 
+
+## Bug fix & update history
+[点击查看bug&update](log.md)
+
 ## Snapshot
 
 ![](http://yuyue4app.oss-cn-hangzhou.aliyuncs.com/app/S70503-1637481.jpg)
