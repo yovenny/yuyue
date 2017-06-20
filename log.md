@@ -2,8 +2,8 @@
 
 ## version1.0
 
-- ~~01：连续加载图片可导致oom异常退出，solve：可尝试更改加载策略，缓存大小。(http://blog.csdn.net/ashqal/article/details/48005833) ~~
-- ~~02: 个人主页出现recycleview的布局错误，solve： 可以baseAdapter查看issu，或跟踪导致这一错误的原因。(https://github.com/CymChad/BaseRecyclerViewAdapterHelper/issues?utf8=%E2%9C%93&q=%20%20java.lang.IllegalArgumentException%3A%20Called%20attach%20on%20a%20child%20which%20is%20not%20detached)已通过onresume.notifyDataChange刷新解决~~
+- ~~01：连续加载图片可导致oom异常退出，solve：可尝试更改加载策略，缓存大小。(http://blog.csdn.net/ashqal/article/details/48005833)~~
+- ~~02: 个人主页出现recycleview的布局错误，solve： 可以baseAdapter查看issu，或跟踪导致这一错误的原因。(https://github.com/CymChad/BaseRecyclerViewAdapterHelper/issues?utf8=%E2%9C%93&q=%20%20java.lang.IllegalArgumentException%3A%20Called%20attach%20on%20a%20child%20which%20is%20not%20detached)  已通过onresume.notifyDataChange刷新解决~~
 
 --------------------
 
