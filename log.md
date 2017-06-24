@@ -16,12 +16,10 @@
 
 
 ## Version1.0
--  http://fir.im/w8dp 
 - 初始版本 
 
 
 ## Version1.1
-- 
 - 数据加密
 - sid实现访问控制 （这两个尽管1.0曾尝试实现，必要时可更换web框架，android适应Web app）
 - ~~添加@别人~~
