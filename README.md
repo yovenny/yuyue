@@ -6,7 +6,7 @@ just a litter thing
 
 ![logo](http://firicon.fir.im/b4488c024776f83e32573bd9183181679c585a86)
 
-点击下载  [http://fir.im/w8dp](http://fir.im/w8dp) （1.0 first version）
+点击下载  [http://fir.im/w8dp](http://fir.im/w8dp) 
 
 ## 欢迎大家下载试用，提下意见～～～
 
